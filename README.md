@@ -2,13 +2,8 @@
 
 ### Hi there.Welcome to my profile 👋 I'm a QA engineer & I catch bugs.
 
-**WaseySaeed/WaseySaeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Improving Manual Testing 
-- 💬 I have experience in automation with Codeceptjs, Selenium, Rest Assured and Appium 
-- 🌱 I’m currently learning Test Automation using Cypress
+- 🔭 I’m currently working on Improving Manual Testing
+- 💬 I have experience in different automation tools like playwright, Selenium, CodeceptJs,Rest Assured and Appium 
 <!-- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Automation and Manual Testing.
